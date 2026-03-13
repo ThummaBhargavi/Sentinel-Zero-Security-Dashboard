@@ -2,4 +2,4 @@
 
 ![Sentinel-Zero Dashboard Overview](sentinel-zero-dashboard-overview.png)
 
-![Forensic Data Analysis](sentinel-zero-forensic-data-analysis.png)# Sentinel-Zero-Security-Dashboard
+![Forensic Data Analysis](sentinel-zero-forensic-data-analysis.png)
